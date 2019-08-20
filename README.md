@@ -5,6 +5,8 @@ Blender addon - personnal snippets library in text editor
 
 Looking for the blender **2.8** version ? [Go to this repository](https://github.com/Pullusb/snippetsLibrary)
 
+### [Demo Youtube](https://youtu.be/Rs4y7DeHkp8)
+
 ---  
 
 Panel in the text editor's toolbar  
